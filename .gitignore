@@ -37,6 +37,7 @@ next-env.d.ts
 .vscode/
 .idea/
 .cursor/
+.cursor.zip
 
 # OS generated files
 .DS_Store
